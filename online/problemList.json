@@ -1,0 +1,1302 @@
+[
+    {
+        "number": 1,
+        "problemID": 1000,
+        "title": "Hello World",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "https://drive.google.com/file/d/1zcBUs-Gaa07EpTOQPbRoADvpdrqEBA-h/view?usp=drive_link",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1000"
+    },
+    {
+        "number": 2,
+        "problemID": 1001,
+        "title": "Extremely Basic",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "https://drive.google.com/file/d/1-x4Clo1YQ1E8yEij3LtK4x5u6MKY1Jud/view?usp=drive_link",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1001"
+    },
+    {
+        "number": 3,
+        "problemID": 1004,
+        "title": "Simple Product",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "https://drive.google.com/file/d/1HhCYd-XWx8wnfWQ7LCld3jPprK6HFSVY/view?usp=drive_link",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1004"
+    },
+    {
+        "number": 4,
+        "problemID": 1002,
+        "title": "Area of a Circle",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "https://drive.google.com/file/d/1WGE7aXM9QtH15nmzIwv9Mg3Z1FOFG727/view?usp=drive_link",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1002"
+    },
+    {
+        "number": 5,
+        "problemID": 1005,
+        "title": "Average 1",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1005"
+    },
+    {
+        "number": 6,
+        "problemID": 1006,
+        "title": "Average 2",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1006"
+    },
+    {
+        "number": 7,
+        "problemID": 1007,
+        "title": "Difference",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1007"
+    },
+    {
+        "number": 8,
+        "problemID": 1008,
+        "title": "Salary",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1008"
+    },
+    {
+        "number": 9,
+        "problemID": 1009,
+        "title": "Salary with Bonus",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1009"
+    },
+    {
+        "number": 10,
+        "problemID": 1018,
+        "title": "Banknotes",
+        "description": "",
+        "topics": [
+            "Basic"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1018"
+    },
+    {
+        "number": 11,
+        "problemID": 2787,
+        "title": "Chess",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/2787"
+    },
+    {
+        "number": 12,
+        "problemID": 1037,
+        "title": "Interval",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1037"
+    },
+    {
+        "number": 13,
+        "problemID": 1042,
+        "title": "Simple Sort",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1042"
+    },
+    {
+        "number": 14,
+        "problemID": 1043,
+        "title": "Triangle",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1043"
+    },
+    {
+        "number": 15,
+        "problemID": 1044,
+        "title": "Multiples",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1044"
+    },
+    {
+        "number": 16,
+        "problemID": 1045,
+        "title": "Triangle Types",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1045"
+    },
+    {
+        "number": 17,
+        "problemID": 1074,
+        "title": "Even or Odd",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1074"
+    },
+    {
+        "number": 18,
+        "problemID": 1075,
+        "title": "Remaining 2",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1075"
+    },
+    {
+        "number": 19,
+        "problemID": 1114,
+        "title": "Fixed Password",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1114"
+    },
+    {
+        "number": 20,
+        "problemID": 1140,
+        "title": "Flowers Flourish from France",
+        "description": "",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1140"
+    },
+    {
+        "number": 21,
+        "problemID": 1071,
+        "title": "Sum of Consecutive Odd Numbers I",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1071"
+    },
+    {
+        "number": 22,
+        "problemID": 1096,
+        "title": "Sequence IJ 2",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1096"
+    },
+    {
+        "number": 23,
+        "problemID": 1097,
+        "title": "Sequence IJ 3",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1097"
+    },
+    {
+        "number": 24,
+        "problemID": 1098,
+        "title": "Sequence IJ 4",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1098"
+    },
+    {
+        "number": 25,
+        "problemID": 1099,
+        "title": "Sum of Consecutive Odd Numbers II",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1099"
+    },
+    {
+        "number": 26,
+        "problemID": 1101,
+        "title": "Sequence of Numbers and Sum",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1101"
+    },
+    {
+        "number": 27,
+        "problemID": 1113,
+        "title": "Ascending and Descending",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1113"
+    },
+    {
+        "number": 28,
+        "problemID": 1145,
+        "title": "Logical Sequence 2",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1145"
+    },
+    {
+        "number": 29,
+        "problemID": 1150,
+        "title": "Exceeding Z",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1150"
+    },
+    {
+        "number": 30,
+        "problemID": 1158,
+        "title": "Sum of Consecutive Odd Numbers III",
+        "description": "",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1158"
+    },
+    {
+        "number": 31,
+        "problemID": 1171,
+        "title": "Number Frequence",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1171"
+    },
+    {
+        "number": 32,
+        "problemID": 1172,
+        "title": "Arrays Replacement I",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1172"
+    },
+    {
+        "number": 33,
+        "problemID": 1176,
+        "title": "Fibonacci Arrays",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1176"
+    },
+    {
+        "number": 34,
+        "problemID": 1179,
+        "title": "Arrays Fill IV",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1179"
+    },
+    {
+        "number": 35,
+        "problemID": 1180,
+        "title": "Lowest Number and Position",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1180"
+    },
+    {
+        "number": 36,
+        "problemID": 1181,
+        "title": "Line in Arrays",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1181"
+    },
+    {
+        "number": 37,
+        "problemID": 1182,
+        "title": "Column in Arrays",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1182"
+    },
+    {
+        "number": 38,
+        "problemID": 1183,
+        "title": "Above the Main Diagonal",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1183"
+    },
+    {
+        "number": 39,
+        "problemID": 1184,
+        "title": "Below the Main Diagonal",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1184"
+    },
+    {
+        "number": 40,
+        "problemID": 1185,
+        "title": "Above the Secondary Diagonal",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1185"
+    },
+    {
+        "number": 41,
+        "problemID": 1186,
+        "title": "Below the Secondary Diagonal",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1186"
+    },
+    {
+        "number": 42,
+        "problemID": 1187,
+        "title": "Top Area",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1187"
+    },
+    {
+        "number": 43,
+        "problemID": 1436,
+        "title": "Brick Game",
+        "description": "",
+        "topics": [
+            "Arrays"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 2",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1436"
+    },
+    {
+        "number": 44,
+        "problemID": 1196,
+        "title": "WERTYU",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1196"
+    },
+    {
+        "number": 45,
+        "problemID": 1217,
+        "title": "Getline Two – Fruits",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1217"
+    },
+    {
+        "number": 46,
+        "problemID": 1234,
+        "title": "Dancing Sentence",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1234"
+    },
+    {
+        "number": 47,
+        "problemID": 1239,
+        "title": "Bloggo Shortcuts",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1239"
+    },
+    {
+        "number": 48,
+        "problemID": 1253,
+        "title": "Caesar Cipher",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1253"
+    },
+    {
+        "number": 49,
+        "problemID": 1272,
+        "title": "Hidden Message",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1272"
+    },
+    {
+        "number": 50,
+        "problemID": 1273,
+        "title": "Justifier",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1273"
+    },
+    {
+        "number": 51,
+        "problemID": 1024,
+        "title": "Encryption",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1024"
+    },
+    {
+        "number": 52,
+        "problemID": 1168,
+        "title": "LED",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1168"
+    },
+    {
+        "number": 53,
+        "problemID": 1332,
+        "title": "One-Two-Three",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1332"
+    },
+    {
+        "number": 54,
+        "problemID": 1795,
+        "title": "Trinomial Triangle",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1795"
+    },
+    {
+        "number": 55,
+        "problemID": 2232,
+        "title": "Pascal's Triangle",
+        "description": "",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/2232"
+    },
+    {
+        "number": 56,
+        "problemID": 1028,
+        "title": "Collectable Cards",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1028"
+    },
+    {
+        "number": 57,
+        "problemID": 1029,
+        "title": "Fibonacci How Many Calls",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1029"
+    },
+    {
+        "number": 58,
+        "problemID": 1036,
+        "title": "Bhaskara’s Formula",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1036"
+    },
+    {
+        "number": 59,
+        "problemID": 1129,
+        "title": "Optical Reader",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1129"
+    },
+    {
+        "number": 60,
+        "problemID": 1149,
+        "title": "Summing Consecutive Integers",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1149"
+    },
+    {
+        "number": 61,
+        "problemID": 1159,
+        "title": "Sum of Consecutive Even Numbers",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1159"
+    },
+    {
+        "number": 62,
+        "problemID": 1160,
+        "title": "Population Increase",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1160"
+    },
+    {
+        "number": 63,
+        "problemID": 1212,
+        "title": "Primary Arithmetic",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1212"
+    },
+    {
+        "number": 64,
+        "problemID": 1221,
+        "title": "Fast Prime Number",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1221"
+    },
+    {
+        "number": 65,
+        "problemID": 1323,
+        "title": "Feynman",
+        "description": "",
+        "topics": [
+            "Math"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1323"
+    },
+    {
+        "number": 66,
+        "problemID": 1015,
+        "title": "Distance Between Two Points",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1015"
+    },
+    {
+        "number": 67,
+        "problemID": 2840,
+        "title": "Ballon++",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/2840"
+    },
+    {
+        "number": 68,
+        "problemID": 3152,
+        "title": "Samuel The Coffee Grower",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 3",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/3152"
+    },
+    {
+        "number": 69,
+        "problemID": 1300,
+        "title": "Hours and Minutes",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1300"
+    },
+    {
+        "number": 70,
+        "problemID": 2518,
+        "title": "FNDI's Staircase",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/2518"
+    },
+    {
+        "number": 71,
+        "problemID": 1875,
+        "title": "Tribol",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1875"
+    },
+    {
+        "number": 72,
+        "problemID": 1039,
+        "title": "Fire Flowers",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1039"
+    },
+    {
+        "number": 73,
+        "problemID": 1555,
+        "title": "Functions",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1555"
+    },
+    {
+        "number": 74,
+        "problemID": 1292,
+        "title": "Trouble with a Pentagon",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1292"
+    },
+    {
+        "number": 75,
+        "problemID": 1549,
+        "title": "Splitting the Coke",
+        "description": "",
+        "topics": [
+            "Geometry"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1549"
+    },
+    {
+        "number": 76,
+        "problemID": 1094,
+        "title": "Experiments",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1094"
+    },
+    {
+        "number": 77,
+        "problemID": 1131,
+        "title": "Grenais",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1131"
+    },
+    {
+        "number": 78,
+        "problemID": 1164,
+        "title": "Perfect Number",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1164"
+    },
+    {
+        "number": 79,
+        "problemID": 1170,
+        "title": "Blobs",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1170"
+    },
+    {
+        "number": 80,
+        "problemID": 1197,
+        "title": "Back to High School Physics",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1197"
+    },
+    {
+        "number": 81,
+        "problemID": 1198,
+        "title": "Hashmat the Brave Warrior",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1198"
+    },
+    {
+        "number": 82,
+        "problemID": 1238,
+        "title": "Combiner",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1238"
+    },
+    {
+        "number": 83,
+        "problemID": 1318,
+        "title": "Fake Tickets",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1318"
+    },
+    {
+        "number": 84,
+        "problemID": 2033,
+        "title": "Interest on a Loan",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/2033"
+    },
+    {
+        "number": 85,
+        "problemID": 2243,
+        "title": "Isosceles",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/2243"
+    },
+    {
+        "number": 86,
+        "problemID": 1467,
+        "title": "Zero or One",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 2",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1467"
+    },
+    {
+        "number": 87,
+        "problemID": 1397,
+        "title": "Game of The Greatest",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 1",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1397"
+    },
+    {
+        "number": 88,
+        "problemID": 1437,
+        "title": "Turn Left",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 2",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1437"
+    },
+    {
+        "number": 89,
+        "problemID": 1089,
+        "title": "Musical Loops",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 2",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1089"
+    },
+    {
+        "number": 90,
+        "problemID": 1091,
+        "title": "Division of Nlogonia",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 1",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1091"
+    },
+    {
+        "number": 91,
+        "problemID": 1103,
+        "title": "Alarm Clock",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 4",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1103"
+    },
+    {
+        "number": 92,
+        "problemID": 1285,
+        "title": "Different Digits",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 3",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1285"
+    },
+    {
+        "number": 93,
+        "problemID": 1087,
+        "title": "Queen",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 4",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1087"
+    },
+    {
+        "number": 94,
+        "problemID": 1609,
+        "title": "Counting Sheep",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 4",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1609"
+    },
+    {
+        "number": 95,
+        "problemID": 1769,
+        "title": "SSN 1",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 3",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1769"
+    },
+    {
+        "number": 96,
+        "problemID": 1267,
+        "title": "Pascal Library",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 3",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1267"
+    },
+    {
+        "number": 97,
+        "problemID": 1536,
+        "title": "Libertadores",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 3",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1536"
+    },
+    {
+        "number": 98,
+        "problemID": 1410,
+        "title": "He's Offside",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 3",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1410"
+    },
+    {
+        "number": 99,
+        "problemID": 1245,
+        "title": "Lost Boots",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 5",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1245"
+    },
+    {
+        "number": 100,
+        "problemID": 1026,
+        "title": "To Carry or not to Carry",
+        "description": "",
+        "topics": [
+            "Ad-Hoc"
+        ],
+        "video": "#",
+        "oj": "Beecrowd",
+        "difficulty": "Level - 5",
+        "problemLink": "https://www.beecrowd.com.br/judge/en/problems/view/1026"
+    }
+]

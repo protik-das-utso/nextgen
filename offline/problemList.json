@@ -1,0 +1,1096 @@
+[
+    {
+        "number": 1,
+        "title": "Write the basic structure of C programming",
+        "description": "Just basic syntax of C",
+        "topics": [
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1g4hAZKlFD7OaHXP-TDaMfb5pvQFcPh6u/view?usp=drive_link"
+    },
+    {
+        "number": 2,
+        "title": "Print 'Hello, World!' to the screen.",
+        "description": "Use printf() statements. use \\n for new line",
+        "topics": [
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1Fno_-fAelDnuH6cZR-aK-CgsCn0Jsj0W/view?usp=drive_link"
+    },
+    {
+        "number": 3,
+        "title": "Print three lines of text one after another in the correct sequence (line 1 ➔ line 2 ➔ line 3).",
+        "description": "Use three printf() statements in order. use \\n",
+        "topics": [
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1Tfppkz_2XNET-63KxZLQPdiKool2tre_/view?usp=drive_link"
+    },
+    {
+        "number": 4,
+        "title": "Print your name and age in two different printf statements.",
+        "description": "Use printf() function twice.",
+        "topics": [
+            "Variables",
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1fMtNGBN3ZJUM_c_idnwZ8fibd7KMoX0t/view?usp=drive_link"
+    },
+    {
+        "number": 5,
+        "title": "Declare three (int, float, double) variables and print them",
+        "description": "Use printf() function.",
+        "topics": [
+            "Variables",
+            "Data Types"
+        ],
+        "video": "https://drive.google.com/file/d/14F0Uv95i__ayY-0pULvZS3BpgWl1so-e/view?usp=drive_link"
+    },
+    {
+        "number": 6,
+        "title": "Declare three (int, float, double) variables and modify their values then print them",
+        "description": "Use printf() function.",
+        "topics": [
+            "Variables",
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1TRy5GK2TtqSPZEKjLVZKlvkmBb5qIOs7/view?usp=drive_link"
+    },
+    {
+        "number": 7,
+        "title": "Declare 1 float & 1 double type variables and print them to three decimal places",
+        "description": "Use printf() function.",
+        "topics": [
+            "Data Types",
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1p2uFQ_5I3hrko6nGvm1MLvPTA9NWlT0i/view?usp=drive_link"
+    },
+    {
+        "number": 8,
+        "title": "Take one integer input from the user and print it.",
+        "description": "Use scanf() for input and printf() for output.",
+        "topics": [
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1VN_5ZUEuNGa3GudupDt21Rae2Hk9mxPE/view?usp=drive_link"
+    },
+    {
+        "number": 9,
+        "title": "Take two integers input from the user and print their sum.",
+        "description": "Use scanf() for input, + operator for sum, printf() to print.",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://youtu.be/5iy0WfZfD14"
+    },
+    {
+        "number": 10,
+        "title": "Take two integers and print their difference (first minus second).",
+        "description": "Use scanf(), - operator, and printf().",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://youtu.be/1OfX4PpZkmA"
+    },
+    {
+        "number": 11,
+        "title": "Take two numbers and print their product (multiplication).",
+        "description": "Use scanf(), * operator, and printf().",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://youtu.be/URtHLllpO0U"
+    },
+    {
+        "number": 12,
+        "title": "Take two numbers and print their average.",
+        "description": "Use scanf(), + and / operators, then printf().",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://drive.google.com/file/d/1y6jfwbtWCZ1oc3OWDlYBcCv6JZ7D762y/view?usp=drive_link"
+    },
+    {
+        "number": 13,
+        "title": "Perform \"100 + 200 / 10 – 3 * 10\"  &  \"(100 + 200) / 10 – 3 * 10\" in printf function",
+        "description": "Operator Precedence and Associativity",
+        "topics": [
+            "Operators",
+            "Logical Thinking"
+        ],
+        "video": "https://youtu.be/2FuHmBHTGBk"
+    },
+    {
+        "number": 14,
+        "title": "Input a floating point number (like 3.14) and print it.",
+        "description": "Use scanf(\"%f\", &variable) for input and printf() to print.",
+        "topics": [
+            "Input/Output",
+            "Data Types"
+        ],
+        "video": "https://youtu.be/t2FHOR0K6Dw"
+    },
+    {
+        "number": 15,
+        "title": "Take two floating point numbers and print their sum.",
+        "description": "Use scanf(\"%f\", &var) for floats, + operator, and printf().",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://youtu.be/C3pV7FR7-QI"
+    },
+    {
+        "number": 16,
+        "title": "Take an integer input and print its double.",
+        "description": "Use scanf(), multiply by 2 (* operator), then printf().",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://youtu.be/0qzrxn0u--o"
+    },
+    {
+        "number": 17,
+        "title": "Take an integer input and print its square (number × number).",
+        "description": "Use scanf(), multiply number by itself, then printf().",
+        "topics": [
+            "Input/Output",
+            "Operators"
+        ],
+        "video": "https://youtu.be/a1yiCPFIzUo"
+    },
+    {
+        "number": 18,
+        "title": "Input two numbers, then swap their values (using a third variable).",
+        "description": "Use scanf(), & third variable",
+        "topics": [
+            "Variables",
+            "Logical Thinking"
+        ],
+        "video": "https://youtu.be/kr0YpkitoQI"
+    },
+    {
+        "number": 19,
+        "title": "Input two numbers, then swap their values (without using a third variable).",
+        "description": "Use scanf(), & most importantly + and - operation for swap, then printf().",
+        "topics": [
+            "Operators",
+            "Logical Thinking"
+        ],
+        "video": "https://youtu.be/bYWllVSdAVo"
+    },
+    {
+        "number": 20,
+        "title": "Input a character and print it back.",
+        "description": "Use scanf(\"%c\", &variable) and printf(\"%c\", variable).",
+        "topics": [
+            "Input/Output",
+            "Data Types"
+        ],
+        "video": "https://drive.google.com/file/d/1AjQFTYpJF0gLM6Cqwrso7mDgGTl_R8_m/view?usp=drive_link"
+    },
+    {
+        "number": 21,
+        "title": "Input a character, then print the next character (example: input 'a' ➔ output 'b').",
+        "description": "Use scanf(), add 1 to character, then printf().",
+        "topics": [
+            "Operators",
+            "Input/Output"
+        ],
+        "video": "https://drive.google.com/file/d/1AjQFTYpJF0gLM6Cqwrso7mDgGTl_R8_m/view?usp=drive_link"
+    },
+    {
+        "number": 22,
+        "title": "Input a number and check if it is positive.",
+        "description": "Use if condition with > 0.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 23,
+        "title": "Input a number and check if it is negative.",
+        "description": "Use if condition with < 0.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 24,
+        "title": "Input a number and check if it is zero or not.",
+        "description": "Use if-else condition to compare with 0.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 25,
+        "title": "Input two numbers and print which one is greater.",
+        "description": "Use if-else with > operator.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 26,
+        "title": "Input two numbers and print which one is smaller.",
+        "description": "Use if-else with < operator.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 27,
+        "title": "Input three numbers and find the largest.",
+        "description": "Use nested if-else conditions.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 28,
+        "title": "Input a number and check if it is even or odd.",
+        "description": "Use % 2 and if-else.",
+        "topics": [
+            "Operators",
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 29,
+        "title": "Input an age and check if eligible to vote (age ≥ 18).",
+        "description": "Use if-else with >= operator.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 30,
+        "title": "Input a character and check if it is a vowel or consonant.",
+        "description": "Use multiple if checks (a, e, i, o, u).",
+        "topics": [
+            "Conditions",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 31,
+        "title": "Input a temperature and check if it is hot (temp > 30).",
+        "description": "Use if condition.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 32,
+        "title": "Input a temperature and check if it is cold (temp < 15).",
+        "description": "Use if condition.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 33,
+        "title": "Input a number and check if it is a multiple of 10.",
+        "description": "Use % 10 == 0 in if-else.",
+        "topics": [
+            "Operators",
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 34,
+        "title": "Input a year and check if it is a leap year.",
+        "description": "Use divisible rules with %, if-else.",
+        "topics": [
+            "Operators",
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 35,
+        "title": "Input two numbers and check if they are equal.",
+        "description": "Use == in if-else.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 36,
+        "title": "Input a number and check if it is divisible by 5.",
+        "description": "Use % 5 == 0 check with if-else.",
+        "topics": [
+            "Operators",
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 37,
+        "title": "Input a number and check if it is divisible by both 3 and 5.",
+        "description": "Use % 3 == 0 && % 5 == 0 in if.",
+        "topics": [
+            "Operators",
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 38,
+        "title": "Input marks and print Pass if marks ≥ 40, otherwise Fail.",
+        "description": "Use if-else with >= 40.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 39,
+        "title": "Input an integer and check if it is a single, double, or triple-digit number.",
+        "description": "Use if-else chain with <10, <100, etc.",
+        "topics": [
+            "Conditions",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 40,
+        "title": "Input a score and grade it: A if ≥80, B if ≥60, C if ≥40, Fail otherwise.",
+        "description": "Use multiple if-else if conditions.",
+        "topics": [
+            "Conditions",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 41,
+        "title": "Input a number and print if it is positive, negative, or zero.",
+        "description": "Use if-else if conditions.",
+        "topics": [
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 42,
+        "title": "Print \"Hello\" 5 times.",
+        "description": "Use for loop or while loop.",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 43,
+        "title": "Print numbers from 1 to 10.",
+        "description": "Use for loop.",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 44,
+        "title": "Print numbers from 10 to 1.",
+        "description": "Use for loop (counting backward).",
+        "topics": [
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 45,
+        "title": "Print even numbers from 2 to 20.",
+        "description": "Use for loop with step 2 (i = i + 2).",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 46,
+        "title": "Print odd numbers from 1 to 19.",
+        "description": "Use for loop with step 2 starting from 1.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 47,
+        "title": "Print even numbers from 0 to 20.",
+        "description": "Use for loop with step 2 (i = i + 2).",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 48,
+        "title": "Print odd numbers from 0 to 20.",
+        "description": "Use for loop with step 2 starting from 1.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 49,
+        "title": "Print numbers from 1 to N (input by user).",
+        "description": "Use scanf() and for loop.",
+        "topics": [
+            "Loops",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 50,
+        "title": "Print squares of numbers from 1 to 5.",
+        "description": "Use for loop and i*i.",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 51,
+        "title": "Print cubes of numbers from 1 to 5.",
+        "description": "Use for loop and i*i*i.",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 52,
+        "title": "Print all numbers from N to 1 (N input by user).",
+        "description": "Use scanf() and for loop (reverse).",
+        "topics": [
+            "Loops",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 53,
+        "title": "Print a multiplication table of 5.",
+        "description": "Use for loop (5*i) from 1 to 10.",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 54,
+        "title": "Input 2 numbers (a, b) & print them from a to b.",
+        "description": "Use scanf() and for loop (forward).",
+        "topics": [
+            "Loops",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 55,
+        "title": "Input 2 numbers (a, b) & print them from b to a.",
+        "description": "Use scanf() and for loop (reverse).",
+        "topics": [
+            "Loops",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 56,
+        "title": "Input 3 numbers (a, b, c) & print them from b to a & use c for interval.",
+        "description": "Use scanf() and for loop (reverse).",
+        "topics": [
+            "Loops",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 57,
+        "title": "Print numbers from 1 to 50 that are even.",
+        "description": "Use for loop and if (i % 2 == 0).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 58,
+        "title": "Print numbers from 1 to 50 that are odd.",
+        "description": "Use for loop and if (i % 2 != 0).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 59,
+        "title": "Print numbers from 1 to 100 divisible by 5.",
+        "description": "Use for loop and if (i % 5 == 0).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 60,
+        "title": "Print numbers from 1 to 100 divisible by 3 and 5.",
+        "description": "Use for loop and if (i % 3 == 0 && i % 5 == 0).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 61,
+        "title": "Print numbers between 1 to 100 which are multiples of 7.",
+        "description": "Use for loop and if (i % 7 == 0).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 62,
+        "title": "Print numbers from 1 to 100 that are NOT divisible by 5.",
+        "description": "Use for loop and if (i % 5 != 0).",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 63,
+        "title": "Print numbers from 1 to 30 and print \"Even\" or \"Odd\" beside each.",
+        "description": "Use for loop with if-else.",
+        "topics": [
+            "Loops",
+            "Conditions"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 64,
+        "title": "Print all numbers from 1 to 100 and stop if number is 50.",
+        "description": "Use for loop and if (i == 50) break;.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 65,
+        "title": "Print numbers from 1 to 100 and skip multiples of 10.",
+        "description": "Use for loop and if (i % 10 == 0) continue;.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 66,
+        "title": "Input a number N and print all divisors of N.",
+        "description": "Use for loop and if (N % i == 0).",
+        "topics": [
+            "Loops",
+            "Operators",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 67,
+        "title": "Print only prime numbers between 1 and 20.",
+        "description": "Use nested for loop with simple prime check.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 68,
+        "title": "Print sum of only even numbers between 1 to N.",
+        "description": "Use for loop and if (i % 2 == 0) sum += i;",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 69,
+        "title": "Print sum of only odd numbers between 1 to N.",
+        "description": "Use for loop and if (i % 2 != 0) sum += i;",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 70,
+        "title": "Print factorial of a number N.",
+        "description": "Use for loop to multiply (fact *= i).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 71,
+        "title": "Print numbers between 1 to 100 that are divisible by 2 or 3.",
+        "description": "Use for loop with `if (i % 2 == 0",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 72,
+        "title": "Print numbers from 1 to N, but only print when i*i < 100.",
+        "description": "Use for loop and if (i*i < 100) printf().",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 73,
+        "title": "Print numbers from N down to 1 and print only odd numbers.",
+        "description": "Use for loop and if (i % 2 != 0).",
+        "topics": [
+            "Loops",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 74,
+        "title": "Print all numbers between 1 to 100 that are divisible by 6 but not by 9.",
+        "description": "Use for loop and if (i % 6 == 0 && i % 9 != 0).",
+        "topics": [
+            "Loops",
+            "Operators",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 75,
+        "title": "Print \"Fizz\" for multiples of 3, \"Buzz\" for multiples of 5, and \"FizzBuzz\" for both.",
+        "description": "Use for loop with multiple if-else checks.",
+        "topics": [
+            "Loops",
+            "Conditions",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 76,
+        "title": "Input a number N, print all numbers between 1 and N that are perfect squares.",
+        "description": "Use for loop and if (i*i <= N).",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 77,
+        "title": "Print a 3×3 matrix (only numbers from 1 to 9).",
+        "description": "Use double for loops.",
+        "topics": [
+            "Matrices",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 78,
+        "title": "Print a 4×4 grid of stars (*).",
+        "description": "Use double for loops with printf(\"*\").",
+        "topics": [
+            "Patterns",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 79,
+        "title": "Print numbers in a triangle shape (1, 12, 123, etc.).",
+        "description": "Use nested for loops.",
+        "topics": [
+            "Patterns",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 80,
+        "title": "Print a multiplication table from 1 to 5 (rows and columns).",
+        "description": "Use double for loops to multiply and print.",
+        "topics": [
+            "Matrices",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 81,
+        "title": "Print a square pattern of numbers where each row has same number.",
+        "description": "Use double for loops (row decides number).",
+        "topics": [
+            "Patterns",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 82,
+        "title": "Input a 3×3 matrix and print it row by row.",
+        "description": "Use double for loops with array input/output.",
+        "topics": [
+            "Arrays",
+            "Matrices"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 83,
+        "title": "Input two 2×2 matrices and print their sum.",
+        "description": "Use double for loops to add elements.",
+        "topics": [
+            "Arrays",
+            "Matrices"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 84,
+        "title": "Print a pyramid pattern of stars (*).",
+        "description": "Use triple for loops (spaces + stars + newline).",
+        "topics": [
+            "Patterns",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 85,
+        "title": "Print the pattern of numbers like below: \n 1 \n 2 3 \n 4 5 6",
+        "description": "Use double for loops and a counter variable.",
+        "topics": [
+            "Patterns",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 86,
+        "title": "Create a table showing sum of row and column numbers (3×3 grid).",
+        "description": "Use double for loops (print row+col).",
+        "topics": [
+            "Matrices",
+            "Loops"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 87,
+        "title": "Print numbers from 1 to 100 but stop printing when number reaches 50.",
+        "description": "Use for loop with if (i == 50) break;.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 88,
+        "title": "Print numbers from 1 to 30, skip multiples of 5.",
+        "description": "Use for loop with if (i % 5 == 0) continue;.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 89,
+        "title": "Input numbers continuously, stop if user enters 0.",
+        "description": "Use while loop with if (num == 0) break;.",
+        "topics": [
+            "Loops",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 90,
+        "title": "Print numbers from 1 to 20, skip even numbers.",
+        "description": "Use for loop with if (i % 2 == 0) continue;.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 91,
+        "title": "Print numbers 1 to 50, but stop if a multiple of 7 is found.",
+        "description": "Use for loop with if (i % 7 == 0) break;.",
+        "topics": [
+            "Loops",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 92,
+        "title": "Declare an array of 5 integers and input values.",
+        "description": "Use array declaration and for loop with scanf().",
+        "topics": [
+            "Arrays",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 93,
+        "title": "Print all elements of an array.",
+        "description": "Use for loop and printf().",
+        "topics": [
+            "Arrays",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 94,
+        "title": "Input 5 numbers and print the sum of the array elements.",
+        "description": "Use array, for loop, and add all elements.",
+        "topics": [
+            "Arrays",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 95,
+        "title": "Input 5 numbers and find the maximum element.",
+        "description": "Use array, for loop, and compare with a max variable.",
+        "topics": [
+            "Arrays",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 96,
+        "title": "Input 5 numbers and find the minimum element.",
+        "description": "Use array, for loop, and compare with a min variable.",
+        "topics": [
+            "Arrays",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 97,
+        "title": "Input 5 numbers and search for a specific number.",
+        "description": "Use for loop with if (array[i] == search_value).",
+        "topics": [
+            "Arrays",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 98,
+        "title": "Input 5 numbers and print only the even numbers.",
+        "description": "Use for loop with if (array[i] % 2 == 0).",
+        "topics": [
+            "Arrays",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 99,
+        "title": "Input 5 numbers and print only the odd numbers.",
+        "description": "Use for loop with if (array[i] % 2 != 0).",
+        "topics": [
+            "Arrays",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 100,
+        "title": "Reverse and print the array elements.",
+        "description": "Use for loop from last index to 0.",
+        "topics": [
+            "Arrays",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 101,
+        "title": "Input 5 numbers and calculate the average of array elements.",
+        "description": "Use for loop to sum, divide by 5, and printf().",
+        "topics": [
+            "Arrays",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 102,
+        "title": "Declare a 3×3 integer matrix and input all elements.",
+        "description": "Use nested for loops with scanf().",
+        "topics": [
+            "Matrices",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 103,
+        "title": "Print a 3×3 matrix row by row.",
+        "description": "Use nested for loops with printf().",
+        "topics": [
+            "Matrices",
+            "Input/Output"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 104,
+        "title": "Input a 2×2 matrix and print the sum of all elements.",
+        "description": "Use nested for loops to add all elements.",
+        "topics": [
+            "Matrices",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 105,
+        "title": "Input a 2×2 matrix and print the largest element.",
+        "description": "Use nested for loops and a max variable.",
+        "topics": [
+            "Matrices",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 106,
+        "title": "Input a 3×3 matrix and print elements of the main diagonal.",
+        "description": "Use nested for loops where i == j.",
+        "topics": [
+            "Matrices",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 107,
+        "title": "Input a 3×3 matrix and print elements of the secondary diagonal.",
+        "description": "Use nested for loops where i + j == size - 1.",
+        "topics": [
+            "Matrices",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 108,
+        "title": "Input two 2×2 matrices and print their sum matrix.",
+        "description": "Use nested for loops to add corresponding elements.",
+        "topics": [
+            "Matrices",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 109,
+        "title": "Input a 2×3 matrix and print transpose of the matrix.",
+        "description": "Use nested for loops (transpose[i][j] = original[j][i]).",
+        "topics": [
+            "Matrices",
+            "Logical Thinking"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 110,
+        "title": "Input a 3×3 matrix and count how many even numbers are there.",
+        "description": "Use nested for loops with if (element % 2 == 0).",
+        "topics": [
+            "Matrices",
+            "Operators"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 111,
+        "title": "Input a 3×3 matrix and print the sum of each row separately.",
+        "description": "Use nested for loops and sum rows inside inner loop.",
+        "topics": [
+            "Matrices",
+            "Operators"
+        ],
+        "video": "#"
+    }
+]

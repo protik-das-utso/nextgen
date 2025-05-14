@@ -1,0 +1,349 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1130px;
+    margin: 40px auto;
+    padding: 30px;
+    background: #ffffff;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+.on-off-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3f51b5;
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.on-off-header h1 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+}
+
+.nav-button {
+    background-color: #ffffff;
+    color: #3f51b5;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+    background-color: #e0e0e0;
+}
+
+
+h1 {
+    text-align: center;
+    color: #1a237e;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.main-layout {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.sidebar {
+    width: 220px;
+    flex-shrink: 0;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
+    height: fit-content;
+}
+
+.content {
+    flex: 1;
+    min-width: 0;
+}
+
+#topic-buttons {
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.topic-button {
+    display: inline-block;
+    padding: 8px 14px;
+    margin: 5px 8px 5px 0;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    font-size: 0.85rem;
+}
+
+.topic-button:hover {
+    background-color: #0056b3;
+}
+
+#problem-search {
+    margin: 10px 0 25px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    width: 200px;
+    font-size: 0.95rem;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#problem-search:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.4);
+}
+
+.problem {
+    position: relative;
+    border-left: 6px solid #e53935;
+    background: #fdfdfd;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    border: 1px solid red;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.problem:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.problem-number {
+    font-weight: 600;
+    color: #007453;
+    font-size: 1rem;
+}
+
+.problem-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #283593;
+    margin: 10px 0;
+}
+
+.problem-description {
+    font-size: 1rem;
+    color: #444;
+    margin: 0 0 15px;
+    line-height: 1.6;
+    word-break: break-word;
+}
+
+.problem-topics {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.topic-button {
+    text-decoration: none;
+    /* remove underline */
+    display: inline-block;
+    background-color: #e3f2fd;
+    color: #d32f2f;
+    border: 1px solid #ffcdd2;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.topic-button:hover {
+    background-color: #ffebee;
+    text-decoration: none;
+}
+
+
+.topic-button.selected {
+    background-color: #28a745 !important;
+    color: #fff;
+}
+
+.analysis-button-container {
+    margin-top: 12px;
+    text-align: right;
+}
+
+.analysis-button {
+    background-color: #1e88e5;
+    color: white;
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.analysis-button:hover {
+    background-color: #1565c0;
+}
+
+#telegram-container {
+    position: fixed;
+    bottom: 25px;
+    right: 70px;
+    text-align: center;
+    z-index: 1000;
+    font-family: sans-serif;
+    width: 60px;
+}
+
+#telegram-popup {
+    position: absolute;
+    bottom: 60px;
+    right: 90%;
+    transform: translateX(50%);
+    background-color: #0088cc;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    width: 200px;
+    /* 🔧 Increased width */
+    display: none;
+    white-space: normal;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Tooltip arrow */
+#telegram-popup::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 6px;
+    border-style: solid;
+    border-color: #0088cc transparent transparent transparent;
+}
+
+#telegram-container img {
+    width: 100%;
+    max-width: 50px;
+    height: auto;
+    transition: transform 0.2s ease;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid blue;
+}
+
+#telegram-container img:hover {
+    transform: scale(1.1);
+}
+
+/* ------------------------
+   ✅ Responsive Fixes
+-------------------------*/
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+        margin: 20px 10px;
+    }
+
+    .problem {
+        padding: 15px;
+    }
+
+    .problem-title {
+        font-size: 1.1rem;
+    }
+
+    .problem-description {
+        font-size: 0.95rem;
+    }
+
+    .analysis-button-container {
+        text-align: center;
+    }
+
+    .sidebar {
+        position: static;
+        width: 95%;
+    }
+
+    .main-layout {
+        flex-direction: column;
+    }
+}
+
+
+
+@media (max-width: 480px) {
+    .on-off-header {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .problem-title {
+        font-size: 1rem;
+    }
+
+    .problem-description {
+        font-size: 0.9rem;
+    }
+
+    .topic-button {
+        font-size: 0.75rem;
+        padding: 4px 10px;
+    }
+
+    .analysis-button {
+        font-size: 0.75rem;
+        padding: 6px 12px;
+    }
+
+    #telegram-container {
+        right: 70px;
+        text-align: center;
+        width: 30px;
+    }
+
+    #telegram-container {
+        right: 50px;
+        width: 40px;
+    }
+}
