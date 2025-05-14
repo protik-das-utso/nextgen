@@ -27,8 +27,8 @@ body {
   flex-wrap: wrap;
 }
 
-.on-off-header h1 {
-  font-size: 1.6rem;
+h1{
+  font-size: 2.6rem;
   font-weight: bold;
   text-align: center;
   flex: 1;
@@ -56,12 +56,6 @@ body {
   background-color: #e0e0e0;
 }
 
-h1 {
-  text-align: center;
-  color: #1a237e;
-  font-size: 2rem;
-  margin-bottom: 30px;
-}
 
 .main-layout {
   display: flex;
@@ -327,7 +321,9 @@ h1 {
     padding: 20px;
     margin: 20px 10px;
   }
-
+  h1{
+  font-size: 1.6rem;
+  }
   .main-layout {
     flex-direction: column;
   }
@@ -363,6 +359,11 @@ h1 {
 }
 
 @media (max-width: 480px) {
+h1{
+  font-size: 1.2rem;
+    padding: 10px 0px;
+  }
+
   .on-off-header{
     display: flex;
     flex-direction: column;
