@@ -3,7 +3,7 @@ let problems = []; // Global problem list
 let selectedTopic = "All"; // Default selected topic
 
 const coreTopics = [
-    "All", "Basic", "Operators",
+    "All", "Basic",
     "Conditions", "Loops", "Arrays",
     "Strings", "Math", "Geometry", "Ad-Hoc"
 ];
@@ -17,8 +17,6 @@ function getProblemsByCoreTopic(topic) {
             
             case "Basic":
                 return keywords.includes("basic");
-            case "Operators":
-                return keywords.includes("operators");
             case "Conditions":
                 return keywords.includes("conditions");
             case "Loops":
@@ -63,7 +61,6 @@ function renderTopicButtons() {
 const topicDocs = {
     
     "Basic": "https://www.geeksforgeeks.org/basic-input-and-output-in-c/",
-    "Operators": "https://www.geeksforgeeks.org/operators-in-c/",
     "Conditions": "https://www.geeksforgeeks.org/decision-making-c-cpp/",
     "Loops": "https://www.geeksforgeeks.org/c-loops/",
     "Arrays": "https://www.geeksforgeeks.org/c-arrays/",
