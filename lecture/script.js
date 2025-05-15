@@ -103,8 +103,8 @@ function renderAllTopics() {
     topicBlock.innerHTML = `
       <button class="toggle-topic">${topic}</button>
       <div class="topic-content" id="content-${safeId}" style="display: none; max-height: 0; overflow: hidden; transition: max-height 0.5s ease, opacity 0.5s ease; opacity: 0;">
-        <h4>Lecture Video: </h4>
-        <div class="video-container">
+        <h4 style="display: none;">Lecture Video: </h4>
+        <div class="video-container" style="display: none;">
           <iframe
             src=""
             class="topic-video"
@@ -113,6 +113,7 @@ function renderAllTopics() {
             allowfullscreen>
           </iframe>
         </div>
+        
         <h4>Online Problems: </h4>
         <div class="topic-problems" id="online-${safeId}">Loading...</div>
         <h4>Offline Problems: </h4>
