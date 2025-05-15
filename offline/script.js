@@ -5,7 +5,7 @@ let selectedTopic = "All"; // Default selected topic
 const coreTopics = [
     "All", "Input/Output", "Variables", "Data Types", "Operators",
     "Conditions", "Loops", "Arrays", "Matrices",
-    "Functions", "Strings", "Patterns", "Logical Thinking"
+    "Functions", "Strings", "Recursion"
 ];
 
 function getProblemsByCoreTopic(topic) {
@@ -34,10 +34,8 @@ function getProblemsByCoreTopic(topic) {
                 return keywords.includes("functions");
             case "Strings":
                 return keywords.includes("strings");
-            case "Patterns":
-                return keywords.includes("patterns");
-            case "Logical Thinking":
-                return keywords.includes("logical thinking");
+                case "Recursion":
+                return keywords.includes("recursion");
             default:
                 return false;
         }
@@ -77,8 +75,6 @@ const topicDocs = {
     "Matrices": "https://www.geeksforgeeks.org/multidimensional-arrays-in-c/",
     "Functions": "https://www.geeksforgeeks.org/c-functions/",
     "Strings": "https://www.geeksforgeeks.org/strings-in-c/",
-    "Patterns": "https://www.geeksforgeeks.org/pattern-programs-in-c/",
-    "Logical Thinking": "#"
 };
 // Handle Problem Number Search
 document.getElementById("problem-search").addEventListener("input", function () {

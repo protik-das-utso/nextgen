@@ -1092,5 +1092,280 @@
             "Operators"
         ],
         "video": "#"
+    },
+    {
+        "number": 112,
+        "title": "Print 'Hello, World!' to the screen.",
+        "description": "Use printf() to display the message.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 113,
+        "title": "Take a string input and print it.",
+        "description": "Use scanf() to take a string and printf() to display it.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 114,
+        "title": "Print your name and age in two different print statements.",
+        "description": "Use scanf() to input name and age, then use two printf() statements.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 115,
+        "title": "Take two strings as input and concatenate them.",
+        "description": "Use scanf() to input two strings and strcat() to join them.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 116,
+        "title": "Take a string input and find its length.",
+        "description": "Use scanf() for input and strlen() to find and print the length.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 117,
+        "title": "Check if a string is empty.",
+        "description": "Use strlen() to check if the string length is 0.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 118,
+        "title": "Convert a string to uppercase.",
+        "description": "Use a loop to convert each character to uppercase using toupper().",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 119,
+        "title": "Convert a string to lowercase.",
+        "description": "Use a loop to convert each character to lowercase using tolower().",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 120,
+        "title": "Find the first occurrence of a character in a string.",
+        "description": "Use scanf() to input a string and a character, then use strchr() to find it.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 121,
+        "title": "Reverse a string.",
+        "description": "Take a string input and print its reverse using a loop without built-in functions.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 122,
+        "title": "Count the number of vowels in a string.",
+        "description": "Use a loop to check and count vowels (a, e, i, o, u) in the string.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 123,
+        "title": "Remove spaces from a string.",
+        "description": "Use a loop to skip spaces and shift characters in the string.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 124,
+        "title": "Check if a string is a palindrome.",
+        "description": "Compare characters from start and end to check for palindrome property.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 125,
+        "title": "Find a substring within a string.",
+        "description": "Use strstr() to check if one string is a substring of another.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 126,
+        "title": "Count the number of occurrences of a character in a string.",
+        "description": "Use a loop to count how many times the character appears.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 127,
+        "title": "Find the longest word in a sentence.",
+        "description": "Split the sentence by spaces and compare word lengths to find the longest.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 128,
+        "title": "Compare two strings lexicographically.",
+        "description": "Use strcmp() to compare and determine the order of two strings.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 129,
+        "title": "Replace a character in a string.",
+        "description": "Use a loop to find and replace all occurrences of a given character.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 130,
+        "title": "Remove all non-alphanumeric characters from a string.",
+        "description": "Use a loop and isalnum() to keep only alphanumeric characters.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 131,
+        "title": "Find the frequency of each character in a string.",
+        "description": "Use an array or map to count and display frequency of each character.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 132,
+        "title": "Check if a string contains a specific character.",
+        "description": "Use strchr() to search for a character in a string.",
+        "topics": ["Strings"],
+        "video": "#"
+    },
+    {
+        "number": 133,
+        "title": "Write a function to add two integers and return the sum.",
+        "description": "Define a function with two parameters and return their sum.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 134,
+        "title": "Write a function to check if a number is even or odd.",
+        "description": "Define a function that uses % 2 to check if a number is even or odd and returns the result.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 135,
+        "title": "Write a function to find the maximum of two numbers.",
+        "description": "Define a function with two parameters and use if-else to return the greater number.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 136,
+        "title": "Write a function to calculate the factorial of a number (using loop).",
+        "description": "Define a function that uses a for loop to calculate the factorial of a given number.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 137,
+        "title": "Write a function to check if a number is prime.",
+        "description": "Create a function that takes an integer and returns whether it is a prime number or not.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 138,
+        "title": "Write a function to calculate the power of a number.",
+        "description": "Create a function that takes base and exponent as parameters and returns base raised to the power of exponent.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 139,
+        "title": "Write a function to reverse a string.",
+        "description": "Create a function that takes a string and returns its reverse.",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 140,
+        "title": "Write a function to count the number of vowels in a string.",
+        "description": "Create a function that takes a string and returns the count of vowels (a, e, i, o, u).",
+        "topics": ["Functions"],
+        "video": "#"
+    },
+    {
+        "number": 141,
+        "title": "Write a recursive function to calculate factorial.",
+        "description": "Use recursion: n * factorial(n - 1) with base case for n == 0 or 1.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 142,
+        "title": "Write a recursive function to print numbers from 1 to N.",
+        "description": "Use a base case and recursive call to print numbers from 1 to N.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 143,
+        "title": "Write a recursive function to find the sum of the first n natural numbers.",
+        "description": "Use recursion: sum(n) = n + sum(n - 1) with base case for n == 0.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 144,
+        "title": "Write a recursive function to reverse a string.",
+        "description": "Use recursion to print or build the reverse of a string character by character.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 145,
+        "title": "Write a recursive function to check if a given string is a palindrome.",
+        "description": "Compare first and last characters, then recursively check the substring in between.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 146,
+        "title": "Write a recursive function to find the sum of digits of a number.",
+        "description": "Use recursion: sum = n % 10 + sum(n / 10) with base case for n == 0.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 147,
+        "title": "Write a recursive function to find the greatest common divisor (GCD) of two integers a and b.",
+        "description": "Use Euclidean algorithm: GCD(a, b) = GCD(b, a % b) with base case b == 0.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 148,
+        "title": "Write a recursive function to generate all permutations of a string.",
+        "description": "Use backtracking with recursion to swap characters and generate all permutations.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 149,
+        "title": "Write a recursive function to solve the Tower of Hanoi problem for N disks.",
+        "description": "Use recursion to move disks between pegs following Tower of Hanoi rules.",
+        "topics": ["Recursion"],
+        "video": "#"
+    },
+    {
+        "number": 150,
+        "title": "Write a recursive function to perform binary search on a sorted array.",
+        "description": "Use recursion to divide the search range and locate the target element.",
+        "topics": ["Recursion"],
+        "video": "#"
     }
+
+
 ]
