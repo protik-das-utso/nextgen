@@ -51,7 +51,10 @@ function generateProblemHTML(p) {
     <div class="problem">
       <div class="problem-body">
         <div class="problem-left">
-          <div class="problem-number">Problem ${p.number}:</div>
+          <div class="problem-number">Problem ${p.number}:
+            ${p.problemID ? `<button class="problem-id-btn">bee - ${p.problemID}</button>` : ""}
+          </div>
+          
           <div class="problem-title">${p.title}</div>
           <div class="problem-description">${p.description}</div>
           <div class="problem-meta">${metaTag}</div>
