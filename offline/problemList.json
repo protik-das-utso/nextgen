@@ -6,7 +6,7 @@
         "topics": [
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1g4hAZKlFD7OaHXP-TDaMfb5pvQFcPh6u/view?usp=drive_link"
+        "video": "https://youtu.be/XQ61Zlg9tvQ"
     },
     {
         "number": 2,
@@ -15,7 +15,7 @@
         "topics": [
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1Fno_-fAelDnuH6cZR-aK-CgsCn0Jsj0W/view?usp=drive_link"
+        "video": "https://youtu.be/We1ubzWdIoI"
     },
     {
         "number": 3,
@@ -24,7 +24,7 @@
         "topics": [
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1Tfppkz_2XNET-63KxZLQPdiKool2tre_/view?usp=drive_link"
+        "video": "https://youtu.be/WK2rZXBphbY"
     },
     {
         "number": 4,
@@ -34,37 +34,37 @@
             "Variables",
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1fMtNGBN3ZJUM_c_idnwZ8fibd7KMoX0t/view?usp=drive_link"
+        "video": "https://youtu.be/oIun_6q9N1U"
     },
     {
         "number": 5,
-        "title": "Declare three (int, float, double) variables and print them",
+        "title": "Declare three (int, float, double) variables and print them.",
         "description": "Use printf() function.",
         "topics": [
             "Variables",
             "Data Types"
         ],
-        "video": "https://drive.google.com/file/d/14F0Uv95i__ayY-0pULvZS3BpgWl1so-e/view?usp=drive_link"
+        "video": "https://youtu.be/EHjYLZux_kI"
     },
     {
         "number": 6,
-        "title": "Declare three (int, float, double) variables and modify their values then print them",
+        "title": "Declare three (int, float, double) variables and modify their values then print them.",
         "description": "Use printf() function.",
         "topics": [
             "Variables",
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1TRy5GK2TtqSPZEKjLVZKlvkmBb5qIOs7/view?usp=drive_link"
+        "video": "https://youtu.be/u0rSrNbmbEQ"
     },
     {
         "number": 7,
-        "title": "Declare 1 float & 1 double type variables and print them to three decimal places",
+        "title": "Declare 1 float & 1 double type variables and print them to three decimal places.",
         "description": "Use printf() function.",
         "topics": [
             "Data Types",
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1p2uFQ_5I3hrko6nGvm1MLvPTA9NWlT0i/view?usp=drive_link"
+        "video": "https://youtu.be/kTeENpu7LTQ"
     },
     {
         "number": 8,
@@ -73,7 +73,7 @@
         "topics": [
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1VN_5ZUEuNGa3GudupDt21Rae2Hk9mxPE/view?usp=drive_link"
+        "video": "https://youtu.be/JFIW_skBNg0"
     },
     {
         "number": 9,
@@ -113,7 +113,7 @@
             "Input/Output",
             "Operators"
         ],
-        "video": "https://drive.google.com/file/d/1y6jfwbtWCZ1oc3OWDlYBcCv6JZ7D762y/view?usp=drive_link"
+        "video": "https://youtu.be/o3OXgq5s3L8"
     },
     {
         "number": 13,
@@ -193,7 +193,7 @@
             "Input/Output",
             "Data Types"
         ],
-        "video": "https://drive.google.com/file/d/1AjQFTYpJF0gLM6Cqwrso7mDgGTl_R8_m/view?usp=drive_link"
+        "video": "https://youtu.be/K6JndOLW644"
     },
     {
         "number": 21,
@@ -203,7 +203,7 @@
             "Operators",
             "Input/Output"
         ],
-        "video": "https://drive.google.com/file/d/1AjQFTYpJF0gLM6Cqwrso7mDgGTl_R8_m/view?usp=drive_link"
+        "video": "https://youtu.be/8M_efRZCGZU"
     },
     {
         "number": 22,
@@ -362,7 +362,7 @@
         "topics": [
             "Conditions"
         ],
-        "video": "#"
+        "video": "https://youtu.be/AhCMQ1W4yYQ"
     },
     {
         "number": 39,
@@ -372,7 +372,7 @@
             "Conditions",
             "Logical Thinking"
         ],
-        "video": "#"
+        "video": "https://youtu.be/iCMra128yHA"
     },
     {
         "number": 40,
@@ -382,7 +382,7 @@
             "Conditions",
             "Logical Thinking"
         ],
-        "video": "#"
+        "video": "https://youtu.be/m2hBTVhUsz4"
     },
     {
         "number": 41,
@@ -391,7 +391,7 @@
         "topics": [
             "Conditions"
         ],
-        "video": "#"
+        "video": "https://youtu.be/UbnbFSiMKSU"
     },
     {
         "number": 42,
