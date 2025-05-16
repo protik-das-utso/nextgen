@@ -132,6 +132,11 @@ function renderProblems(problemListData) {
             ojTag = `<img class="oj-tag-logo" src="${ojLogos[problem.oj]}" alt="${problem.oj}" title="${problem.oj}" style="max-height: ${height}rem">`;
         }
 
+        // Conditionally generate the analysis video section
+    const videoSection = (problem.video && problem.video !== "#")
+        ? `<a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
+        : '';
+
 
 
         problemDiv.innerHTML = `
@@ -156,14 +161,12 @@ function renderProblems(problemListData) {
  <span class="solve-hint">💡 Try to Solve</span>
 </a>
 
-  <a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>
+  <div class="analysis-button-container">
+          ${videoSection}
+        </div>
 </div>
 
 `;
-
-
-
-
 
 
         problemList.appendChild(problemDiv);
