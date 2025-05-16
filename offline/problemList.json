@@ -791,27 +791,27 @@
             "Patterns",
             "Loops"
         ],
-        "video": "#"
+        "video": "https://youtu.be/1DdyCv7Gf3Y"
     },
     {
         "number": 82,
-        "title": "Input a 3×3 matrix and print it row by row.",
-        "description": "Use double for loops with array input/output.",
+        "title": "Print a square pattern of numbers where each row has the same number & print the sum of each row",
+        "description": "Use double for loops (row decides number) with each row sum",
         "topics": [
             "Arrays",
             "Matrices"
         ],
-        "video": "#"
+        "video": "https://youtu.be/Zhz0bpohhmM"
     },
     {
         "number": 83,
-        "title": "Input two 2×2 matrices and print their sum.",
-        "description": "Use double for loops to add elements.",
+        "title": "Print (A-Z) & (a-z) using Loop",
+        "description": "Use for loops & ASCII Values",
         "topics": [
-            "Arrays",
+            "Loops",
             "Matrices"
         ],
-        "video": "#"
+        "video": "https://youtu.be/o1AZ72GH-oo"
     },
     {
         "number": 84,

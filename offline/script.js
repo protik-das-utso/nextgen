@@ -104,33 +104,39 @@ function renderProblems(problemListData) {
     }
 
     problemListData.forEach(problem => {
-        const problemDiv = document.createElement("div");
-        problemDiv.className = "problem";
+    const problemDiv = document.createElement("div");
+    problemDiv.className = "problem";
 
-        const topicButtons = problem.topics.map(topic => {
-            const docURL = topicDocs[topic] || "#";
-            const isSelected = topic === selectedTopic ? "selected" : "";
-            return `
-              <a href="${docURL}" target="_blank" 
-                 class="topic-button ${isSelected}" 
-                 title="Go to documentation">
-                ${topic}
-              </a>
-            `;
-        }).join("");
+    const topicButtons = problem.topics.map(topic => {
+        const docURL = topicDocs[topic] || "#";
+        const isSelected = topic === selectedTopic ? "selected" : "";
+        return `
+            <a href="${docURL}" target="_blank" 
+               class="topic-button ${isSelected}" 
+               title="Go to documentation">
+              ${topic}
+            </a>
+        `;
+    }).join("");
 
-        problemDiv.innerHTML = `
+    // Conditionally generate the analysis video section
+    const videoSection = (problem.video && problem.video !== "#")
+        ? `<a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
+        : '';
+
+    problemDiv.innerHTML = `
         <div class="problem-number">Problem ${problem.number}:</div>
         <div class="problem-title">${problem.title}</div>
         <div class="problem-description">${problem.description}</div>
         <div class="problem-topics">${topicButtons}</div>
         <div class="analysis-button-container">
-          <a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>
+          ${videoSection}
         </div>
-      `;
+    `;
 
-        problemList.appendChild(problemDiv);
-    });
+    problemList.appendChild(problemDiv);
+});
+
 
 
     // Add click events to inner topic buttons
