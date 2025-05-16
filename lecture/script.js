@@ -47,6 +47,11 @@ function generateProblemHTML(p) {
     ojTag = `<img class="oj-tag-logo" src="${ojLogos[p.oj]}" alt="${p.oj}" title="${p.oj}" style="max-height: ${height}rem">`;
   }
 
+   // Conditionally generate the analysis video section
+    const videoSection = (p.video && p.video !== "#")
+        ? `<a href="${p.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
+        : '';
+
   return `
     <div class="problem">
       <div class="problem-body">
@@ -66,7 +71,9 @@ function generateProblemHTML(p) {
       </div>
       <div class="analysis-button-container">
         ${p.problemLink ? `<a href="${p.problemLink}" target="_blank" class="solve-button"><span class="solve-hint">💡 Try to Solve</span></a>` : ""}
-        ${p.video ? `<a href="${p.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>` : ""}
+        <div class="analysis-button-container">
+          ${videoSection}
+        </div>
       </div>
     </div>`;
 }

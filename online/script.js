@@ -14,7 +14,7 @@ function getProblemsByCoreTopic(topic) {
     return problems.filter(p => {
         const keywords = p.topics.map(t => t.toLowerCase());
         switch (topic) {
-            
+
             case "Basic":
                 return keywords.includes("basic");
             case "Conditions":
@@ -59,7 +59,7 @@ function renderTopicButtons() {
     });
 }
 const topicDocs = {
-    
+
     "Basic": "https://www.geeksforgeeks.org/basic-input-and-output-in-c/",
     "Conditions": "https://www.geeksforgeeks.org/decision-making-c-cpp/",
     "Loops": "https://www.geeksforgeeks.org/c-loops/",
@@ -133,9 +133,9 @@ function renderProblems(problemListData) {
         }
 
         // Conditionally generate the analysis video section
-    const videoSection = (problem.video && problem.video !== "#")
-        ? `<a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
-        : '';
+        const videoSection = (problem.video && problem.video !== "#")
+            ? `<a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
+            : '';
 
 
 

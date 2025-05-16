@@ -34,7 +34,7 @@ function getProblemsByCoreTopic(topic) {
                 return keywords.includes("functions");
             case "Strings":
                 return keywords.includes("strings");
-                case "Recursion":
+            case "Recursion":
                 return keywords.includes("recursion");
             default:
                 return false;
@@ -95,7 +95,7 @@ function renderProblems(problemListData) {
     const problemList = document.getElementById("problem-list");
     problemList.innerHTML = "";
 
-     // ✅ Show message if no problems match
+    // ✅ Show message if no problems match
     if (problemListData.length === 0) {
         problemList.innerHTML = `<div style="padding: 20px; color: red; text-align: center; font-weight: bold;">
             ❌ No problem found
@@ -104,27 +104,27 @@ function renderProblems(problemListData) {
     }
 
     problemListData.forEach(problem => {
-    const problemDiv = document.createElement("div");
-    problemDiv.className = "problem";
+        const problemDiv = document.createElement("div");
+        problemDiv.className = "problem";
 
-    const topicButtons = problem.topics.map(topic => {
-        const docURL = topicDocs[topic] || "#";
-        const isSelected = topic === selectedTopic ? "selected" : "";
-        return `
+        const topicButtons = problem.topics.map(topic => {
+            const docURL = topicDocs[topic] || "#";
+            const isSelected = topic === selectedTopic ? "selected" : "";
+            return `
             <a href="${docURL}" target="_blank" 
                class="topic-button ${isSelected}" 
                title="Go to documentation">
               ${topic}
             </a>
         `;
-    }).join("");
+        }).join("");
 
-    // Conditionally generate the analysis video section
-    const videoSection = (problem.video && problem.video !== "#")
-        ? `<a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
-        : '';
+        // Conditionally generate the analysis video section
+        const videoSection = (problem.video && problem.video !== "#")
+            ? `<a href="${problem.video}" target="_blank" class="analysis-button">🎥 Analysis Video</a>`
+            : '';
 
-    problemDiv.innerHTML = `
+        problemDiv.innerHTML = `
         <div class="problem-number">Problem ${problem.number}:</div>
         <div class="problem-title">${problem.title}</div>
         <div class="problem-description">${problem.description}</div>
@@ -134,8 +134,8 @@ function renderProblems(problemListData) {
         </div>
     `;
 
-    problemList.appendChild(problemDiv);
-});
+        problemList.appendChild(problemDiv);
+    });
 
 
 
