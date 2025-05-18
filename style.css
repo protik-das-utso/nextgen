@@ -39,8 +39,43 @@
       background-color: #1d4ed8;
     }
 
+    .link{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin: 30px auto;
+      width: 95%;
+    }
+    .link-group{
+      margin: 0 auto;
+      border-radius: 5%;
+      margin-bottom: 20px;
+    }
+    .link div img{
+      width: 300px;
+      align-items: center;
+      margin: 0 auto;
+     border-radius: 5%;
+    }
+    .link p{
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 1.5rem;
+    }
+
     footer {
       margin-top: 50px;
       padding: 10px;
       color: #888;
+    }
+
+    @media (max-width: 768px) {
+      .link div img{
+        width: 200px;
+      }
+    }
+    @media (max-width: 480px) {
+      .link{
+        flex-direction: column;
+      }
     }
