@@ -43,7 +43,10 @@
     .link{
       display: flex;
       flex-direction: row;
+<<<<<<< HEAD
       flex-wrap: wrap;
+=======
+>>>>>>> 15b813c32608616ac6683a04060fcebf5b2dbddd
       justify-content: space-around;
       margin: 30px auto;
       width: 95%;
@@ -52,7 +55,10 @@
       margin: 0 auto;
       border-radius: 5%;
       margin-bottom: 20px;
+<<<<<<< HEAD
       padding: 10px;
+=======
+>>>>>>> 15b813c32608616ac6683a04060fcebf5b2dbddd
       display: flex;
       flex-direction: column;
     }
@@ -60,7 +66,11 @@
       width: 300px;
       align-items: center;
       margin: 0 auto;
+<<<<<<< HEAD
      border-radius: 50%;
+=======
+     border-radius: 5%;
+>>>>>>> 15b813c32608616ac6683a04060fcebf5b2dbddd
     }
     .link p{
       text-align: center;
@@ -96,4 +106,8 @@
       .link{
         flex-direction: column;
       }
+<<<<<<< HEAD
     }
+=======
+    }
+>>>>>>> 15b813c32608616ac6683a04060fcebf5b2dbddd
