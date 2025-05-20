@@ -1104,15 +1104,6 @@
     },
     {
         "number": 113,
-        "title": "Take a string input and print it.",
-        "description": "Use scanf() to take a string and printf() to display it.",
-        "topics": [
-            "Strings"
-        ],
-        "video": "#"
-    },
-    {
-        "number": 114,
         "title": "Print your name and age in two different print statements.",
         "description": "Use scanf() to input name and age, then use two printf() statements.",
         "topics": [
@@ -1121,7 +1112,7 @@
         "video": "#"
     },
     {
-        "number": 115,
+        "number": 114,
         "title": "Take two strings as input and concatenate them.",
         "description": "Use scanf() to input two strings and strcat() to join them.",
         "topics": [
@@ -1130,7 +1121,7 @@
         "video": "#"
     },
     {
-        "number": 116,
+        "number": 115,
         "title": "Take a string input and find its length.",
         "description": "Use scanf() for input and strlen() to find and print the length.",
         "topics": [
@@ -1139,7 +1130,7 @@
         "video": "#"
     },
     {
-        "number": 117,
+        "number": 116,
         "title": "Check if a string is empty.",
         "description": "Use strlen() to check if the string length is 0.",
         "topics": [
@@ -1148,7 +1139,7 @@
         "video": "#"
     },
     {
-        "number": 118,
+        "number": 117,
         "title": "Convert a string to uppercase.",
         "description": "Use a loop to convert each character to uppercase using toupper().",
         "topics": [
@@ -1157,7 +1148,7 @@
         "video": "#"
     },
     {
-        "number": 119,
+        "number": 118,
         "title": "Convert a string to lowercase.",
         "description": "Use a loop to convert each character to lowercase using tolower().",
         "topics": [
@@ -1166,7 +1157,7 @@
         "video": "#"
     },
     {
-        "number": 120,
+        "number": 119,
         "title": "Find the first occurrence of a character in a string.",
         "description": "Use scanf() to input a string and a character, then use strchr() to find it.",
         "topics": [
@@ -1175,7 +1166,7 @@
         "video": "#"
     },
     {
-        "number": 121,
+        "number": 120,
         "title": "Reverse a string.",
         "description": "Take a string input and print its reverse using a loop without built-in functions.",
         "topics": [
@@ -1184,7 +1175,7 @@
         "video": "#"
     },
     {
-        "number": 122,
+        "number": 121,
         "title": "Count the number of vowels in a string.",
         "description": "Use a loop to check and count vowels (a, e, i, o, u) in the string.",
         "topics": [
@@ -1193,7 +1184,7 @@
         "video": "#"
     },
     {
-        "number": 123,
+        "number": 122,
         "title": "Remove spaces from a string.",
         "description": "Use a loop to skip spaces and shift characters in the string.",
         "topics": [
@@ -1202,7 +1193,7 @@
         "video": "#"
     },
     {
-        "number": 124,
+        "number": 123,
         "title": "Check if a string is a palindrome.",
         "description": "Compare characters from start and end to check for palindrome property.",
         "topics": [
@@ -1211,7 +1202,7 @@
         "video": "#"
     },
     {
-        "number": 125,
+        "number": 124,
         "title": "Find a substring within a string.",
         "description": "Use strstr() to check if one string is a substring of another.",
         "topics": [
@@ -1220,7 +1211,7 @@
         "video": "#"
     },
     {
-        "number": 126,
+        "number": 125,
         "title": "Count the number of occurrences of a character in a string.",
         "description": "Use a loop to count how many times the character appears.",
         "topics": [
@@ -1229,7 +1220,7 @@
         "video": "#"
     },
     {
-        "number": 127,
+        "number": 126,
         "title": "Find the longest word in a sentence.",
         "description": "Split the sentence by spaces and compare word lengths to find the longest.",
         "topics": [
@@ -1238,7 +1229,7 @@
         "video": "#"
     },
     {
-        "number": 128,
+        "number": 127,
         "title": "Compare two strings lexicographically.",
         "description": "Use strcmp() to compare and determine the order of two strings.",
         "topics": [
@@ -1247,7 +1238,7 @@
         "video": "#"
     },
     {
-        "number": 129,
+        "number": 128,
         "title": "Replace a character in a string.",
         "description": "Use a loop to find and replace all occurrences of a given character.",
         "topics": [
@@ -1256,7 +1247,7 @@
         "video": "#"
     },
     {
-        "number": 130,
+        "number": 129,
         "title": "Remove all non-alphanumeric characters from a string.",
         "description": "Use a loop and isalnum() to keep only alphanumeric characters.",
         "topics": [
@@ -1265,9 +1256,18 @@
         "video": "#"
     },
     {
-        "number": 131,
+        "number": 130,
         "title": "Find the frequency of each character in a string.",
         "description": "Use an array or map to count and display frequency of each character.",
+        "topics": [
+            "Strings"
+        ],
+        "video": "#"
+    },
+    {
+        "number": 131,
+        "title": "Check if a string is empty.",
+        "description": "Use strlen() or compare the string to \"\" to check if it's empty.",
         "topics": [
             "Strings"
         ],
