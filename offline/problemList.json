@@ -825,7 +825,7 @@
     },
     {
         "number": 85,
-        "title": "Print the pattern of numbers like below: \n 1 \n 2 3 \n 4 5 6",
+        "title": "Print the pattern of numbers like below:<br>1<br>2 3<br>4 5 6",
         "description": "Use double for loops and a counter variable.",
         "topics": [
             "Patterns",
@@ -955,7 +955,7 @@
     },
     {
         "number": 98,
-        "title": "Input 5 numbers and print only the even numbers.",
+        "title": "Input n numbers and print only the even numbers.",
         "description": "Use for loop with if (array[i] % 2 == 0).",
         "topics": [
             "Arrays",
@@ -965,7 +965,7 @@
     },
     {
         "number": 99,
-        "title": "Input 5 numbers and print only the odd numbers.",
+        "title": "Input n numbers and print only the odd numbers.",
         "description": "Use for loop with if (array[i] % 2 != 0).",
         "topics": [
             "Arrays",
