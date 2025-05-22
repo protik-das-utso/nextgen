@@ -985,7 +985,7 @@
     },
     {
         "number": 101,
-        "title": "Input 5 numbers and calculate the average of array elements.",
+        "title": "Input n numbers and calculate the average of array elements.",
         "description": "Use for loop to sum, divide by 5, and printf().",
         "topics": [
             "Arrays",
