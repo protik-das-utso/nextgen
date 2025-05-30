@@ -1096,7 +1096,7 @@
     {
         "number": 112,
         "title": "Print 'Hello, World!' to the screen.",
-        "description": "Use printf() to display the message.",
+        "description": "Use scanf() then printf() to display the message. ",
         "topics": [
             "Strings"
         ],
